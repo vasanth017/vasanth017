@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 👨‍💻 All of my projects are available at [github.com/vasanth017?tab=repositories](github.com/vasanth017?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
